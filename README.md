@@ -76,12 +76,47 @@
 
 ### Real Time Communication
 <span>
-    <a href="https://angular.io/" target="_blank">
-        <img src="https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png" width="30" height="30"/>
-    </a>
+<a href="https://angular.io/" target="_blank">
+<img src="https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png"  width="30" height="30"/></a>
+</span>&nbsp;
+
+### Deployment & Hosting
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg"  width="30" height="30"/></a>
+</span>&nbsp;
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"  width="30" height="30"/></a>
+</span>&nbsp;
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"  width="30" height="30"/></a>
+</span>&nbsp;
+
+### Serverless API
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"  width="30" height="30"/></a>
+</span>&nbsp;
+
+### Version Control
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"  width="30" height="30"/></a>
+</span>&nbsp;
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"  width="30" height="30"/></a>
 </span>&nbsp;
 
 
+
+### Prototyping
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png"  width="30" height="30"/></a>
+</span>&nbsp;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -92,5 +127,3 @@
 - ⚡ Fun fact: ...
 
 ![Beaming Face with Smiling Eyes](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png)
-
-
