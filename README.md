@@ -77,7 +77,7 @@
 ### Real Time Communication
 <span>
 <a href="https://angular.io/" target="_blank">
-<img src="https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png"  width="30" height="30"/></a>
+<img src="Hubpng.com - Socket Io White Logo Png HD - 1000x1000.png"  width="30" height="30"/></a>
 </span>&nbsp;
 
 ### Deployment & Hosting
@@ -107,7 +107,7 @@
 </span>&nbsp;
 <span>
 <a href="https://angular.io/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"  width="30" height="30"/></a>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="30" height="30"/></a>
 </span>&nbsp;
 
 
@@ -115,8 +115,14 @@
 ### Prototyping
 <span>
 <a href="https://angular.io/" target="_blank">
-<img src="https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png"  width="30" height="30"/></a>
+<img src="[https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png](https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg)"  width="30" height="30"/></a>
 </span>&nbsp;
+<span>
+<a href="https://angular.io/" target="_blank">
+<img src="[https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png](https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg)"  width="30" height="30"/></a>
+</span>&nbsp;
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
