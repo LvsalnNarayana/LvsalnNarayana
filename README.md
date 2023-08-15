@@ -1,5 +1,6 @@
 
 
+
 ## Hi..! My name is Narayana Lvsaln <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" style="margin-left: 10px;margin-top:-10px;" /> 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /><span>  Full Stack Developer</span>
@@ -8,12 +9,22 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /><span>  London, United Kingdom</span>
 
+
+🌱 I’m currently learning React Native
+
+💬 Ask me about My Ideas
+
+📫 How to reach me: lvsalnnarayana@gmail.com
+
+⚡ Fun fact: All Coders don't love coffee
+
+
 ## Socials
 <a href="https://www.linkedin.com/in/narayana-lvsaln-53257196/" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"  width="30" height="30"/>
 </a>
 
-## Tech Stacks
+## Skills
 
 ### FrontEnd
 <span>
@@ -77,7 +88,7 @@
 ### Real Time Communication
 <span>
 <a href="https://angular.io/" target="_blank">
-<img src="Hubpng.com - Socket Io White Logo Png HD - 1000x1000.png"  width="30" height="30"/></a>
+<img src="socketio-logo.png"  width="30" height="30"/></a>
 </span>&nbsp;
 
 ### Deployment & Hosting
@@ -115,21 +126,12 @@
 ### Prototyping
 <span>
 <a href="https://angular.io/" target="_blank">
-<img src="[https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png](https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg)"  width="30" height="30"/></a>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"  width="30" height="30"/></a>
 </span>&nbsp;
 <span>
 <a href="https://angular.io/" target="_blank">
-<img src="[https://www.hubpng.com/files/preview/800x800/png-transparent-socket-io-white-logo-png-hd-11686963670vjqgar6hcvapbbjm7hakumksmjfmtyqugc2ajxnddhdsmpdk8eqnkkjvmx0b8dhkvrgjr8vwygi5jrlffqkpa.png](https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg)"  width="30" height="30"/></a>
+<img src="figma-logo.svg"  width="30" height="30"/></a>
 </span>&nbsp;
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-![Beaming Face with Smiling Eyes](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png)
