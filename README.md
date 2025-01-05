@@ -9,8 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /><span>  London, United Kingdom</span>
 
-🌱 I’m currently learning React Native
-
 💬 Ask me about My Ideas
 
 📫 How to reach me: lvsalnnarayana@gmail.com
